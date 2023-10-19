@@ -8,6 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+pyvenv.cfg
 build/
 develop-eggs/
 dist/
@@ -15,7 +16,13 @@ downloads/
 eggs/
 .eggs/
 lib/
+Lib/
+include/
+Include/
+scripts/
+Scripts/
 lib64/
+Lib64/
 parts/
 sdist/
 var/
