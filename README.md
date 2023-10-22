@@ -60,4 +60,9 @@ Es hora de instalar las dependencias.
 pip install pywin32
 ```
 
-Sirvase a integrar todas las dependencias que se agreguen posterior a la ultima actualización de este documento.
+Sírvase a integrar todas las dependencias que se agreguen posterior a la ultima actualización de este documento.
+
+Para compilar el ejecutable de la aplicación utilizaremos el comando:
+```bash
+pyinstaller --onefile --icon=./logo.ico py_notifier.py
+```

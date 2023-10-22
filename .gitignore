@@ -17,6 +17,8 @@ eggs/
 .eggs/
 lib/
 Lib/
+share/
+output/
 include/
 Include/
 scripts/
